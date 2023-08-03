@@ -1,0 +1,5 @@
+name: orbital-trial
+version: '${version}'
+main: wiki.hydra.orbital.Main
+api-version: '1.18'
+website: https://hydra-developer.wiki

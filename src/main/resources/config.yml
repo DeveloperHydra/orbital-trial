@@ -1,0 +1,15 @@
+MESSAGES:
+  NO-PERMISSION: "&8[&c!&8] &aYou do not have permission to execute this command."
+  CONFIG-RELOADED: "&8[&c!&8] &aYou have reloaded configuration."
+  BALANCE-MESSAGE: "&8[&c!&8] &aYour balance is: &f%balance%"
+  MUST-BE-PLAYER: "&8[&c!&8] &aYou must be a player to execute this command."
+  NULL-PLAYER: "&8[&c!&8] &aPlayer was not found, or is inactive."
+  INVALID-AMOUNT: "&8[&c!&8] &aInvalid amount. Please provide a valid number."
+  POSITIVE-AMOUNT: "&8[&c!&8] &aAmount must be a positive number."
+  SET-BALANCE: "&8[&c!&8] &aSet balance of %player% to %amount%"
+  EARN-COOLDOWN: "&8[&c!&8] &aYou can only use this command once every minute."
+  EARN-MESSAGE: "&8[&c!&8] &aYou have used the earn command and gained %earnedAmount%. Your new balance amount is %newBalance%."
+  NOT-ENOUGH-MONEY: "&8[&c!&8] &aYou don't have enough balance to give."
+  SUCCESSFUL-TRANSFER: "&8[&c!&8] &aYou have successfully transfered %amount% to %target%"
+  CANNOT-GIVE-TO-SELF: "&8[&c!&8] &aYou cannot give money to yourself!"
+
